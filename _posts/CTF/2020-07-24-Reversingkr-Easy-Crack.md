@@ -6,7 +6,7 @@ tags: [CTF, 리버싱, reversing.kr, Easy Crack]
 comments: true
 ---
 ### 문제:Easy Crack, Point:100
-<http://reversing.kr>의 첫 번째 문제인 Easy Crack을 풀어보도록 하자.  
+<http://reversing.kr>의 첫 번째 문제인 **Easy Crack** 을 풀어보도록 하자.  
 문제를 클릭하면 Easy_Crack.exe 파일이 다운받아진다.
 
 ## 문제 확인
