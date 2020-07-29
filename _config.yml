@@ -1,0 +1,71 @@
+# Site Info
+title: '망고집사의 보안&개발공부로그'
+tagline: '망고집사의 보안&개발공부로그'
+description: '보안/프로그래밍을 공부하며 배운점 느낀점을 기록하는 곳입니다.'
+baseurl: ""
+url: https://yeonsu1936.github.io
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: SUNG YEONSU
+  description: 망고집사(SUNG YEONSU)
+  contact:
+    # linkedin:  https://www.linkedin.com/in/lizhihao
+    github:    https://github.com/yeonsu1936
+    facebook:  https://www.facebook.com/profile.php?id=100014585354638
+    # twitter:   https://twitter.com/Li_Zhihao
+    # weibo:     http://weibo.com/41173780
+    email:    mailto:yeonsu1936@gmail.com
+
+# Navigation (2nd level links supported)
+nav:
+  Home:
+    - '/blog/'
+  Categories:
+    - '/'
+    # - { Categories All: '/blog/categories/' }
+    - { TIL (Today I Learned): '/blog/categories/#til' }
+    - { 융합보안공학 : '/blog/categories/#융합보안공학' }
+    - { C: '/blog/categories/#c' }
+    - { python: '/blog/categories/#python' }
+    - { 알고리즘 문제풀이: '/blog/categories/#알고리즘-문제풀이' }
+    - { CTF 문제풀이: '/blog/categories/#CTF-문제풀이' }
+    - { git: '/blog/categories/#git' }
+    - { etc: '/blog/categories/#etc' }
+    # - { Tags: '/blog/tags/' }
+  About:
+    - '/about/'
+  Search:
+    - '/search/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: '-' # leave blank if you don't want google analytics
+disqus_short_name: 'https-yeonsu1936-github-io' # leave blank if you don't want disqus
+
+
+# Use the following plug-ins
+gems:
+  - jekyll-paginate
