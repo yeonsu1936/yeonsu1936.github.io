@@ -63,7 +63,7 @@ category_page: '/blog/categories/'
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: '-' # leave blank if you don't want google analytics
-disqus_short_name: 'https-yeonsu1936-github-io' # leave blank if you don't want disqus
+disqus_short_name: 'yeonsu1936-github-io' # leave blank if you don't want disqus
 
 
 # Use the following plug-ins
