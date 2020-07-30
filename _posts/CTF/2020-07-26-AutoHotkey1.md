@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Reversing.kr - AutoHotkey1
 category: CTF 문제풀이
