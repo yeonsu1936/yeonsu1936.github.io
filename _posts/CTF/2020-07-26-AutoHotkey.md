@@ -86,17 +86,4 @@ comments: true
 ![AutoHotkey1_20](https://user-images.githubusercontent.com/41509536/88932315-dd7d1900-d2b8-11ea-8f39-79665ddd36e1.jpg)  
 
 - 이렇게 구한 DecrytKey와 EXE's Key를 각각 md5로 복호화해서 AuthKey를 완성시킨다.  
-![AutoHotkey1_21](https://user-images.githubusercontent.com/41509536/88932316-de15af80-d2b8-11ea-8ede-e5a5328919d1.jpg)  
-
-
-
-
-
-
-
-
-
-
-## 문제 후기
-- 이 문제는 버튼을 클릭하면 키 값이 보이도록 하는 프로그램이다.
-- 이 문제의 원래 의도는 버튼 사이즈를 바꿔 버튼을 클릭해 키 값을 보는 것인데, 문제 의도와는 다르게 엔터나 스페이스바를 눌러도 버튼이 보인다...ㅋㅋㅋ
+![AutoHotkey1_21](https://user-images.githubusercontent.com/41509536/88932316-de15af80-d2b8-11ea-8ede-e5a5328919d1.jpg)
