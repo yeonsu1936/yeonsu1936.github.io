@@ -61,6 +61,8 @@ comments: true
 ![AutoHotkey2_13](https://user-images.githubusercontent.com/41509536/89117393-63c37600-d4d8-11ea-8934-1288222b7306.jpg)  
 
 - 파일을 저장하고 실행시키면 파일이 제대로 실행된다.  
-- 플래그가 안나오고 문장이 나온다.
+- 플래그가 안나오고 문장이 나온다.  
+![AutoHotkey2_14](https://user-images.githubusercontent.com/41509536/89117395-66be6680-d4d8-11ea-968a-b49aa484b7c2.jpg)  
+
 - 구글에 검색하면 단어가 보인다. 이것을 인증하면 문제가 풀린다.
-![AutoHotkey2_14](https://user-images.githubusercontent.com/41509536/89117395-66be6680-d4d8-11ea-968a-b49aa484b7c2.jpg)
+![AutoHotkey2_15](https://user-images.githubusercontent.com/41509536/89117893-4395b600-d4dc-11ea-9e12-f1e70cd54fef.jpg)
