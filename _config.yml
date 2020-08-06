@@ -43,6 +43,7 @@ nav:
     # - { Categories All: '/blog/categories/' }
     - { TIL (Today I Learned): '/blog/categories/#til' }
     - { 융합보안공학 : '/blog/categories/#융합보안공학' }
+    - { 정보보안기사 : '/blog/categories/#정보보안기사' }
     - { C: '/blog/categories/#c' }
     - { python: '/blog/categories/#python' }
     - { 알고리즘 문제풀이: '/blog/categories/#알고리즘-문제풀이' }
