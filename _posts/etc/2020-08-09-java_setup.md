@@ -7,8 +7,8 @@ comments: true
 ---
 # 자바(JAVA) 다운로드 및 설치하기, 환경변수 설정하기, jdk 13 설치
 ## JDK 설치하기
--  구글에 `Java Development Kit download`라고 입력하면 오라클 홈페이지에서 SDK 다운로드 페이지로 이동할 수 있다.  
-  <https://www.oracle.com/java/technologies/javase-jdk13-downloads.html>
+-  구글에 `Java Development Kit download`라고 입력하면 오라클 홈페이지에서 SDK 다운로드 페이지(<https://www.oracle.com/java/technologies/javase-jdk13-downloads.html>)로 이동할 수 있다.
+
 
 - 가장 최신 버전인 13버전을 다운받는다.  
   운영체제가 윈도우이므로 `jdk-13.0.2_windows-x64_bin.exe`를 클릭한다.
