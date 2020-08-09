@@ -24,7 +24,8 @@ comments: true
 ![java_04](https://user-images.githubusercontent.com/41509536/89724762-49dae380-da42-11ea-8fc0-a66bafc75d24.JPG)
 
 - 설치하려는 폴더를 지정한다.  
-  컴퓨터 여유공간이 없어서 `D:\Program Files\Java\jdk-13.0.2`에 설치를 진행한다. 설치 폴더는 나중에 환경변수를 설정할 때 쓰이므로 기억해야 한다.
+  컴퓨터 여유공간이 없어서 `D:\Program Files\Java\jdk-13.0.2`에 설치를 진행한다.  
+  설치 폴더는 나중에 환경변수를 설정할 때 쓰이므로 기억해야 한다.
 ![java_05](https://user-images.githubusercontent.com/41509536/89724763-49dae380-da42-11ea-8b37-43172c923e68.JPG)
 
 - 설치가 완료되면, 자바를 어디서든 실행할 수 있도록 환경 변수를 설정해야한다.
