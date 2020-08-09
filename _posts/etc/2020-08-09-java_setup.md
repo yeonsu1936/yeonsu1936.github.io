@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Java SDK 설치하기(Java SE Development Kit 13)
+title: 자바(JAVA) 다운로드 및 설치하기, 환경변수 설정하기, jdk 13 설치
 category: etc
 tags: [java]
 comments: true
 ---
-# 자바(JAVA) 다운로드 및 설치하기, 환경변수 설정하기, jdk 13 설치
-## JDK 설치하기
+# Java SDK 설치하기(Java SE Development Kit 13)
+## JDK 다운로드
 -  구글에 `Java Development Kit download`라고 입력하면 오라클 홈페이지에서 SDK 다운로드 페이지(<https://www.oracle.com/java/technologies/javase-jdk13-downloads.html>)로 이동할 수 있다.
 
 
@@ -17,6 +17,7 @@ comments: true
 - check box를 클릭하고 다운을 진행한다.
 ![java_02](https://user-images.githubusercontent.com/41509536/89724760-48a9b680-da42-11ea-8b85-4db349754814.JPG)
 
+## JDK 설치하기
 - 다운받은 파일을 실행한다.
 ![java_03](https://user-images.githubusercontent.com/41509536/89724761-49424d00-da42-11ea-9e39-088137fb5181.JPG)
 
