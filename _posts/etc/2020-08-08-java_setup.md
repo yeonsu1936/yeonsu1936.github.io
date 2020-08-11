@@ -43,7 +43,7 @@ comments: true
 - **새로 만들기** 를 클릭해서 자바 경로를 잡아줄 시스템 변수를 생성한다.
 ![java_10](https://user-images.githubusercontent.com/41509536/89724768-4ba4a700-da42-11ea-963b-81d00c347670.JPG)
 
-- 변수 이름은 `Java-HOME`, 변수 값은 `D:\Program Files\Java\jdk-13.0.2 (설치 경로)`을 입력한다.
+- 변수 이름은 `Java_HOME`, 변수 값은 `D:\Program Files\Java\jdk-13.0.2`(설치 경로)를 입력한다.
 ![java_11](https://user-images.githubusercontent.com/41509536/89724769-4c3d3d80-da42-11ea-9595-ba281d48b1eb.JPG)
 
 - 다음으로 `JAVA_HOME` 변수를 **Path** 에 추가한다. **Path 시스템 변수** 를 클릭한 뒤 **편집** 을 클릭한다.
