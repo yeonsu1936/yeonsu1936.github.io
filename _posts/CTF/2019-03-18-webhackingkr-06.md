@@ -50,6 +50,7 @@ if(!$_COOKIE[user]) // user라는 cookie값이 존재하지 않는다면 if문 �
 }
 ?>
 ```
+
 ```html
 <html>
 <head>
@@ -101,6 +102,7 @@ if($decode_id=="admin" && $decode_pw=="admin")  // $decode_id에 저장된 값�
 </body>
 </html>
 ```
+
 - admin을 20번 인코딩하고 str_replace 치환한 값을 user쿠기와 password쿠키에 넣어 변조시키면 decode 코드로 인해 디코드되어서 문제가 해결될 것이다.
 ![webhackingkr_02](https://user-images.githubusercontent.com/41509536/90215874-00bad300-de38-11ea-9036-9c76b63a6605.png)
 
