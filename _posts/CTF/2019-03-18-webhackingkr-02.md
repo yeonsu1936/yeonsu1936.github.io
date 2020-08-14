@@ -11,7 +11,7 @@ comments: true
 ![webhackingkr_01](https://user-images.githubusercontent.com/41509536/90215870-ff89a600-de37-11ea-9249-9b37cf456fc6.jpg)
 
 - index.phps를 클릭한다.
-```
+```php
 <?php
 if(!$_COOKIE[user]) // user라는 cookie값이 존재하지 않는다면 if문 수행
 {
@@ -49,7 +49,8 @@ if(!$_COOKIE[user]) // user라는 cookie값이 존재하지 않는다면 if문 �
     echo("<meta http-equiv=refresh content=0>");
 }
 ?>
-
+```
+```html
 <html>
 <head>
 <title>Challenge 6</title>
@@ -96,10 +97,7 @@ if($decode_id=="admin" && $decode_pw=="admin")  // $decode_id에 저장된 값�
 {
     @solve(6,100);
 }
-
-
 ?>
-
 </body>
 </html>
 ```
