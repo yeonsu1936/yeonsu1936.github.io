@@ -50,7 +50,6 @@ if(!$_COOKIE[user]) // user라는 cookie값이 존재하지 않는다면 if문 �
 }
 ?>
 ```
-
 ```html
 <html>
 <head>
@@ -91,10 +90,10 @@ for($i=0;$i<20;$i++) // for문으로 20번 반복
     $decode_pw=base64_decode($decode_pw); // $decode_pw의 값을 반복적으로 base64 decode하여 $decode_pw변수에 저장
 }
 
-echo("<font style=background:silver;color:black>&nbsp;&nbsp;HINT : base64&nbsp;&nbsp;</font><hr><a href=index.phps style=color:yellow;>index.phps</a><br><br>");
-echo("ID : $decode_id<br>PW : $decode_pw<hr>"); // $decode_id와 $decode_pw 값 출력(메인화면에 guest와 123qwe가 출력되는 부분)
+// echo("<font style=background:silver;color:black>&nbsp;&nbsp;HINT : base64&nbsp;&nbsp;</font><hr><a href=index.phps style=color:yellow;>index.phps</a><br><br>");
+// echo("ID : $decode_id<br>PW : $decode_pw<hr>"); // $decode_id와 $decode_pw 값 출력(메인화면에 guest와 123qwe가 출력되는 부분)
 
-if($decode_id=="admin" && $decode_pw=="admin")  // $decode_id에 저장된 값과 $decode_pw에 저장된 값이 admin이면 문제가 해결
+// if($decode_id=="admin" && $decode_pw=="admin")  // $decode_id에 저장된 값과 $decode_pw에 저장된 값이 admin이면 문제가 해결
 {
     @solve(6,100);
 }
