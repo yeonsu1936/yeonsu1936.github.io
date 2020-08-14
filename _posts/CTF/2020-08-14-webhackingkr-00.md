@@ -43,5 +43,5 @@ comments: true
 ![webhackingkr_09](https://user-images.githubusercontent.com/41509536/90214220-be42c780-de32-11ea-9524-ccc55c9ad6c6.png)
 
 - output을 해독할 수 있을 때까지 복호화를 진행하면 ip 주소가 나온다.  
-  ID, PW, EMAIL,IP값을 입력하고 Submit합니다.
+  ID, PW, EMAIL,IP값을 입력하고 Submit한다.
 ![webhackingkr_10](https://user-images.githubusercontent.com/41509536/90214221-bedb5e00-de32-11ea-8f7d-e373aa5a0d91.jpg)
