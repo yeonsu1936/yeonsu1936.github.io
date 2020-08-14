@@ -11,7 +11,7 @@ comments: true
 ![webhackingkr_01](https://user-images.githubusercontent.com/41509536/90215870-ff89a600-de37-11ea-9249-9b37cf456fc6.jpg)
 
 - index.phps를 클릭한다.
-```php
+```
 <?php
 if(!$_COOKIE[user]) // user라는 cookie값이 존재하지 않는다면 if문 수행
 {
